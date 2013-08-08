@@ -14,6 +14,4 @@ They can also play the subtitles with the video for better understanding. Bookma
 helps users to create and update the bookmarks on the videos.
 
 
-Usernamual
-----------
 
