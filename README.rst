@@ -27,8 +27,8 @@ Installation
    some demo lectures.
 #. The download and uncompress process will take some while.
 #. If you don't wish to download demo lectures from Internet then, in the External SD CARD menu(mnt/extsd)
-   or Internal SD CARD(mnt/sdcard) there should be a folder named proxyMITY.
-#. In proxyMITY folder there should be two more folders named ``video`` and ``xml``.
+   or Internal SD CARD(mnt/sdcard) there should be a folder named ``proxyMITY``.
+#. In ``proxyMITY`` folder there should be two more folders named ``video`` and ``xml``.
 #. In the video folder insert video lectures and in xml folder insert their respective xml files.
 
 (Note: the name of the video lecture and the xml file should be same)
