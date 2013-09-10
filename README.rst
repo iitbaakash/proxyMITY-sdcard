@@ -12,6 +12,12 @@ anywhere, and at their own pace. They can also navigate through the topics withi
 They can also play the subtitles with the video for better understanding. Bookmarking feature
 helps users to create and update the bookmarks on the videos.
 
+Run proxyMITY
+-------------
+
+* In the External SD CARD menu(mnt/extsd) or Internal SD CARD(mnt/sdcard) there should be a folder named proxyMITY.
+* In proxyMITY folder there should be two more folders named video and xml.
+
 Download
 --------
 
